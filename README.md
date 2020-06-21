@@ -4,7 +4,7 @@ Collection of ice hockey related stuffz
 ## Skills Kit
 - [ ] bumper
 - [ ] goal targets
-- [ ] stick control
+- [ ] zigzag stick control
 
 ## Ice resurfacer
 - [ ] backyard rink resurfacer
